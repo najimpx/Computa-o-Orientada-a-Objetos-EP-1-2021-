@@ -1,8 +1,0 @@
-
-Rafael Nazima
-
-n USP: 11208311
-
-Utilizar jdk 11 ou superior
-
-Será compilado a classe Pong como principal.
